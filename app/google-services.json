@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610008552642",
+    "project_id": "fir-authentication-demo-beab5",
+    "storage_bucket": "fir-authentication-demo-beab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610008552642:android:fc7bc4188f12346269575b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcllbDvPtlC6D13HJMC610bbfMrt8ToU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
